@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Development at Silicon Tech<br>I’m looking to collaborate on Frontend & Backend projects<br>I’m looking for help with  Improving advanced web development skills<br>I’m currently learning: JavaScript • React •<br><br>
+Hi i am Ammar Hussain, a Web Developer at Silicon Tech<br>I’m looking to collaborate on Frontend & Backend projects<br>I’m looking for help with  Improving advanced web development skills<br>I’m currently learning: JavaScript • React •<br><br>
 
 
 ## 🌐 Socials:
